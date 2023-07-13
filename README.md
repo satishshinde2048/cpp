@@ -1,2 +1,2 @@
 # cpp
-*** cpp=>coading problem's***
+//cpp=>coading problem's
